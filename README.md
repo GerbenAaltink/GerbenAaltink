@@ -3,4 +3,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app?user=GerbenAaltink)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=GerbenAaltink&theme=onedark)](https://github.com/GerbenAaltink/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=GerbenAaltink&theme=light)](https://github.com/GerbenAaltink/github-profile-trophy)
