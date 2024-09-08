@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GerbenAaltink&show_icons=true&theme=dark#gh-dark-mode-only&hide=discussions_answered)](https://github.com/GerbenAaltink/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GerbenAaltink&show_icons=true&theme=default#gh-light-mode-only&hide=discussions_answered)](https://github.com/GerbenAaltink/github-readme-stats#gh-light-mode-only)
+
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=GerbenAaltink&show_icons=true&theme=transparent&hide=contribs,issues&hide=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
