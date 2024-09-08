@@ -3,5 +3,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app?user=GerbenAaltink&theme=transparent)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=GerbenAaltink&theme=dark#gh-dark-mode-only)](https://github.com/GerbenAaltink/github-profile-trophy&theme=dark#gh-dark-mode-only)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=GerbenAaltink&theme=light#gh-light-mode-only)](https://github.com/GerbenAaltink/github-profile-trophy&theme=light#gh-light-mode-only)
+[![Trophy trophy-Dark](https://github-profile-trophy.vercel.app/?username=GerbenAaltink&theme=dark#gh-dark-mode-only)](https://github.com/GerbenAaltink/github-profile-trophy&theme=dark#gh-dark-mode-only)
+[![Trophy trophy-Light](https://github-profile-trophy.vercel.app/?username=GerbenAaltink&theme=light#gh-light-mode-only)](https://github.com/GerbenAaltink/github-profile-trophy&theme=light#gh-light-mode-only)
